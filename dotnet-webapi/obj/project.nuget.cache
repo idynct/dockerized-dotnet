@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0Fu+MZS9VvYuCMQmEd8JaMg/RgSqBQ/66e862zgCqmvI4gDDKEFQTeNIZgSKA8KF2Tk72+wD+RbBvzw26VtIg==",
+  "success": true,
+  "projectFilePath": "/Users/raymond/Desktop/dotnet-test/dotnet-test.csproj",
+  "expectedPackageFiles": [
+    "/Users/raymond/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/raymond/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/raymond/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/raymond/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/raymond/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/raymond/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
